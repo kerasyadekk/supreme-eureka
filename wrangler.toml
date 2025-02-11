@@ -1,12 +1,7 @@
 name = "supreme-eureka"
-type = "webpack"
-
 account_id = "0dd44c9d41220f51b9dc0b674ffcee28"
 workers_dev = true
-route = ""
-zone_id = ""
 
 [site]
-bucket = "./public"
-entry-point = "path/to/your/entrypoint"
+
 main = "index.html"
