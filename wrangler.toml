@@ -3,5 +3,5 @@ account_id = "0dd44c9d41220f51b9dc0b674ffcee28"
 workers_dev = true
 
 [site]
-bucket = "."
+bucket = "./kerasyadekk"
 main = "index.html"
