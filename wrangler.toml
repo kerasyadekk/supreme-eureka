@@ -9,11 +9,11 @@ namespace = "supreme-eureka" # make sure this is the same as the DISPATCH_NAMESP
 [[ d1_databases ]]
 binding = "DB"
 database_name = "supreme-eureka"
-database_id = ""
-preview_database_id = ""
+database_id = "supreme-eureka"
+preview_database_id = "supreme-eureka"
 
 [vars]
-DISPATCH_NAMESPACE_NAME = "workers-for-platforms-example-project"
+DISPATCH_NAMESPACE_NAME = "supreme-eureka"
 DISPATCH_NAMESPACE_ACCOUNT_ID = ""
 # The necessary secrets are:
 # - DISPATCH_NAMESPACE_API_TOKEN
